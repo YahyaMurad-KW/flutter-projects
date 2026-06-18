@@ -1,17 +1,17 @@
 ### Login Screen
-![Login](Screenshots/login.png)
+![Login](Screenshots/Login.png)
 
 ### Home Screen
-![Home](Screenshots/home.png)
+![Home](Screenshots/Home.png)
 
 ### Restaurant Details & Reviews
-![Details](Screenshots/details.png)
+![Details](Screenshots/Details.png)
 
 ### User Profile
-![Profile](Screenshots/profile.png)
+![Profile](Screenshots/Profile.png)
 
 ### Edit Profile
-![Edit Profile](Screenshots/edit_profile.png)
+![Edit Profile](Screenshots/Edit_Profile.png)
 
 ### Favorites
-![Favorites](Screenshots/favorites.png)
+![Favorites](Screenshots/Favorites.png)
